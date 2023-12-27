@@ -1,0 +1,22 @@
+<?php
+/**
+ * File ini diterjemahkan secara manual oleh Aditya benhardi raintung dengan Penuh kesabaran & kasih sayang di Adelaide-South australia dan kadang-kadang di Melbourne-Victoria
+ * Diterjemahkan khusus untuk untuk prooyo creative agency - https://prooyo.com
+ * Prooyo adalah creative agency yang bergerak di bidang jasa marketing, digital Marketing atau internet marketing dan advertising
+   Layanan kami seperti jasa pembuatan website perusahaan, jasa pembuatan toko online, jasa desain logo, jasa graphic design, pengelolaan website, jasa seo berkualitas dan jasa branding lengkap
+ * Mohon jangan meng-upload ulang, copy, editing dan menyebarluaskan file tanpa izin dari prooyo creative agency
+ * Jika anda membutuhkan izin untuk penyempurnaan file dan keperluan lainnya, mohon agar mengajukan permohonan anda terlebih dahulu melalui email hello@prooyo.com
+ */
+// Heading
+$_['heading_title'] = 'Gunakan kupon belanja';
+
+// Text
+$_['text_coupon']   = 'Kupon belanja (%s)';
+$_['text_success']  = 'Terima kasih, upon belanja yang anda masukan telah berhasil diterapkan pad akeranjang belanja anda';
+
+// Entry
+$_['entry_coupon']  = 'Masukan kode kupon belanja anda disini';
+
+// Error
+$_['error_coupon']  = 'Mohon maaf: Kupon belanja yang anda gunaka tidak bisa diterapkan pada keranjang belanja anda, karena kupon belanja tersebut memiliki kode yang tidak valid, telah kadalauarsa / habis masa promosinya atau telah mencapai batas maksimal penggunaan.<p>Mohon periksa kembali kode kupon yang anda masukan, atau coba dengan kode kupon lainnya yang anda miliki</p>';
+$_['error_empty']   = 'Mohon maaf: Anda belum memasukan kode kupon belanja';

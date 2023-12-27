@@ -1,0 +1,116 @@
+<?php
+/**
+ * File ini diterjemahkan secara manual oleh Aditya benhardi raintung dengan Penuh kesabaran & kasih sayang di Adelaide-South australia dan kadang-kadang di Melbourne-Victoria
+ * Diterjemahkan khusus untuk untuk prooyo creative agency - https://prooyo.com
+ * Prooyo adalah creative agency yang bergerak di bidang jasa marketing, digital Marketing atau internet marketing dan advertising
+   Layanan kami seperti jasa pembuatan website perusahaan, jasa pembuatan toko online, jasa desain logo, jasa graphic design, pengelolaan website, jasa seo berkualitas dan jasa branding lengkap
+ * Mohon jangan meng-upload ulang, copy, editing dan menyebarluaskan file tanpa izin dari prooyo creative agency
+ * Jika anda membutuhkan izin untuk penyempurnaan file dan keperluan lainnya, mohon agar mengajukan permohonan anda terlebih dahulu melalui email hello@prooyo.com
+ */
+// Text
+$_['text_affiliate']                 = 'Afiliasi';
+$_['text_api']                       = 'API';
+$_['text_attribute']                 = 'Atribut pada produk';
+$_['text_attribute_prooyo']          = 'Atribut produk';
+$_['text_attribute_group']           = 'Grup atribut produk';
+$_['text_backup']                    = 'Backup &amp; Pemulihan data';
+$_['text_banner']                    = 'Banner';
+$_['text_catalog']                   = 'Katalog';
+$_['text_category']                  = 'Kategori produk';
+$_['text_country']                   = 'Negara';
+$_['text_coupon']                    = 'Kupon belanja';
+$_['text_currency']                  = 'Mata uang';
+$_['text_customer']                  = 'Pelanggan';
+$_['text_data_pelanggan_prooyo']     = 'Data pelanggan';
+$_['text_customer_group']            = 'Grup pelanggan';
+$_['text_custom_field']              = 'Kolom form tambahan';
+$_['text_dashboard']                 = 'Admin panel';
+$_['text_design']                    = 'Peletakan & Desain';
+$_['text_download']                  = 'File download';
+$_['text_log']                       = 'Log eror';
+$_['text_event']                     = 'Events';
+$_['text_extension']                 = 'Ekstensi';
+$_['text_filter']                    = 'Penyaringan pencarian';
+$_['text_geo_zone']                  = 'Kelompok wilayah';
+$_['text_information']               = 'Halaman informasi';
+$_['text_installer']                 = 'Penginstalan ekstensi';
+$_['text_language']                  = 'Bahasa';
+$_['text_layout']                    = 'Tata letak';
+$_['text_localisation']              = 'Pengaturan lokal';
+$_['text_location']                  = 'Lokasi toko fisik';
+$_['text_contact']                   = 'E-mail marketing';
+$_['text_marketing']                 = 'Pemasaran';
+$_['text_marketing_prooyo']          = 'Kampanye marketing';
+$_['text_menu']                      = 'Pengelola menu';
+$_['text_modification']              = 'Modifikasi';
+$_['text_manufacturer']              = 'Merek';
+$_['text_option']                    = 'Pilihan untuk produk';
+$_['text_order']                     = 'Pesanan';
+$_['text_order_status']              = 'Status pesanan';
+$_['text_product']                   = 'Produk';
+$_['text_reports']                   = 'Laporan';
+$_['text_report_sale']               = 'Penjualan';
+$_['text_report_sale_order']         = 'Pemesanan';
+$_['text_report_sale_tax']           = 'Pajak';
+$_['text_report_sale_shipping']      = 'Laporan pengiriman';
+$_['text_report_sale_return']        = 'Retur produk';
+$_['text_report_sale_coupon']        = 'Penggunaan kupon';
+$_['text_report_product']            = 'Analisis produk';
+$_['text_report_product_viewed']     = 'Dilihat';
+$_['text_report_product_purchased']  = 'Dibeli';
+$_['text_report_customer']           = 'Pelanggan';
+$_['text_report_customer_activity']  = 'Aktifitas pelanggan';
+$_['text_report_customer_search']    = 'Pencarian oleh pelanggan';
+$_['text_report_customer_online']    = 'Pelanggan online';
+$_['text_report_customer_order']     = 'Pesanan';
+$_['text_report_customer_reward']    = 'Reward Points';
+$_['text_report_customer_credit']    = 'Saldo pelanggan';
+$_['text_report_marketing']          = 'Pemasaran';
+$_['text_report_marketing_prooyo']   = 'Laporan kampanye';
+$_['text_report_affiliate']          = 'Komisi afiliasi';
+$_['text_report_affiliate_activity'] = 'Aktifitas afiliasi';
+$_['text_review']                    = 'Ulasan produk';
+$_['text_return']                    = 'Retur produk';
+$_['text_return_action']             = 'Tindakan retur';
+$_['text_return_reason']             = 'Alasan retur';
+$_['text_return_status']             = 'Status retur';
+$_['text_sale']                      = 'Penjualan';
+$_['text_setting']                   = 'Pengaturan toko';
+$_['text_store']                     = 'Extension Store';
+$_['text_stock_status']              = 'Status persediaan';
+$_['text_system']                    = 'Sistem';
+$_['text_tax']                       = 'Pajak';
+$_['text_tax_class']                 = 'Kelas pajak';
+$_['text_tax_rate']                  = 'Tarif pajak';
+$_['text_translation']               = 'Editor bahasa';
+$_['text_theme']                     = 'Editor tema';
+$_['text_tools']                     = 'Peralatan';
+$_['text_upload']                    = 'Daftar file upload';
+$_['text_user']                      = 'Pengguna admin panel';
+$_['text_user_prooyo']               = 'Akun pengguna';
+$_['text_user_group']                = 'Grup pengguna';
+$_['text_voucher']                   = 'Voucher belanja';
+$_['text_voucher_prooyo']            = 'Data voucher';
+$_['text_voucher_theme']             = 'Desain tema voucher';
+$_['text_weight_class']              = 'Kelas Satuan berat';
+$_['text_length_class']              = 'Kelas Satuan panjang';
+$_['text_zone']                      = 'Wilayah';
+$_['text_recurring']                 = 'Profil pembayaran rutin';
+$_['text_order_recurring']           = 'Pesanan pembayaran rutin';
+$_['text_openbay_extension']         = 'OpenBay Pro';
+$_['text_openbay_dashboard']         = 'Dasbor';
+$_['text_openbay_orders']            = 'Info Pemesanan banyak';
+$_['text_openbay_items']             = 'Pengaturan produk';
+$_['text_openbay_ebay']              = 'eBay';
+$_['text_openbay_amazon']            = 'Amazon (EU)';
+$_['text_openbay_amazonus']          = 'Amazon (US)';
+$_['text_openbay_etsy']            	 = 'Etsy';
+$_['text_openbay_settings']          = 'Pengaturan';
+$_['text_openbay_links']             = 'Tautan produk';
+$_['text_openbay_report_price']      = 'Laporan harga';
+$_['text_openbay_order_import']      = 'Pesanan import';
+$_['text_paypal']                    = 'PayPal';
+$_['text_paypal_search']             = 'Pencarian';
+$_['text_complete_status']           = 'Pesanan yang selesai'; 
+$_['text_processing_status']         = 'Pesanan dalam proses'; 
+$_['text_other_status']              = 'Status lainnya'; 
